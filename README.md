@@ -66,3 +66,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Comentario extra
 
 El script de la base de datos se encuentra en la ruta public/script_sistema
+
+## Iniciar sesion
+
+Usuario: cabreralcalasebastian@gmail.com
+Password: sebas8036
